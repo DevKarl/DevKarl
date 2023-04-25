@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Karl</h1>
-<h3 align="center">A passionate frontend developer from Norway</h3>
+<h3 align="center">An aspiring frontend developer from Norway</h3>
 
 - 💼 I have experience with Shopify Front-End Development as a freelancer
 
