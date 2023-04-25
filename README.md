@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Karl</h1>
-<h3 align="center">An aspiring frontend developer from Norway</h3>
+<h1 align="center"> Hi 👋  I'm Karl </h1>
+<h3 align="center"> An aspiring frontend developer from Norway </h3>
 
-- 💼 I have experience with Shopify Front-End Development as a freelancer
+- 💼 I have experience in Shopify frontend development as a freelancer
 
-- 🔧 I’m currently working on [Advanced Task Planner](https://github.com/DevKarl/Advanced-Task-Planner) 
+- 🔧 I am currently working on [Advanced Task Planner](https://github.com/DevKarl/Advanced-Task-Planner) 
 
-- 🌱 I’m currently learning ***React w/some Redux and Next.js***
+- 🌱 I am learning ***React w/some Redux and Next.js***
 
-- 📜 ✔ I’m also completing ***CS50 (C, DSA, Python, SQL, Flask)***
+- 📜 I am completing ***CS50 (C, DSA, Python, SQL, Flask)***
 
 - 👨‍💻 All of my work and projects are available at <a href="https://www.karl-dev.com" target="_blank">www.karl-dev.com</a>
 
