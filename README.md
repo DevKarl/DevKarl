@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Karl 👋
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKarl&langs_count=8)](https://github.com/DevKarl/github-readme-stats)
+
 
 <!--
 **DevKarl/DevKarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
