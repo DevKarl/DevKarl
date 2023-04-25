@@ -6,13 +6,14 @@
 
 - 🔧 I’m currently working on [Advanced Task Planner](https://github.com/DevKarl/Advanced-Task-Planner) 
 
-- 🌱 I’m currently learning **React w/some Redux and Next.js **
+- 🌱 I’m currently learning ***React w/some Redux and Next.js***
 
-- 🌱 I’m also learning ** CS50 (C, DSA, Python, SQL, Flask)  **
+- 📜 ✔ I’m also completing ***CS50 (C, DSA, Python, SQL, Flask)***
 
 - 👨‍💻 All of my work and projects are available at [www.karl-dev.com](www.karl-dev.com)
 
-- Connect with me --> 📫  **karl-dev@karl-dev.com** | |  <a href="https://linkedin.com/in/https://www.linkedin.com/in/karl-henrik-johansen-531a45226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karl-henrik-johansen-531a45226/" height="20" width="30" /></a>
+- 📫 Connect with me on e-mail **karl-dev@karl-dev.com**
+- <a href="https://linkedin.com/in/https://www.linkedin.com/in/karl-henrik-johansen-531a45226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karl-henrik-johansen-531a45226/" height="18" width="26" /> Connect with me on LinkedIn</a>
 
 <h2 align="left">Languages and Tools</h2>
 
