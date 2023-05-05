@@ -6,7 +6,7 @@
 
 - 🔧 I am currently working on [Advanced Task Planner](https://github.com/DevKarl/Advanced-Task-Planner) 
 
-- 🌱 I am learning ***React w/some Redux and Next.js***
+- 🌱 I am currently learning ***Redux and Next.js***
 
 - 📜 I am completing ***CS50 (C, DSA, Python, SQL, Flask)***
 
