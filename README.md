@@ -6,18 +6,11 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 <h3 align="center"> An aspiring frontend developer from Norway  </h3>
 <br>
 
-- 💼 I have freelance experience in Shopify frontend development 
-
 - 🔧 I am currently working on [Advanced Task Planner](https://github.com/DevKarl/Advanced-Task-Planner) 
 
 - 🌱 I am currently learning ***Next.js, NodeJS, Typescript and SASS***
 
-- 📜 I am completing ***CS50 (C, DSA, Python, SQL, Flask)***
-
 - 👨‍💻 All of my work and projects are available at <a href="https://www.karl-dev.com" target="_blank">www.karl-dev.com</a>
-
-- 📫 Connect with me on e-mail **karl-dev@karl-dev.com**
-- <a target="_blank" href="https://www.linkedin.com/in/karl-henrik-johansen-531a45226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karl-henrik-johansen-531a45226/" height="18" width="26" /> Connect with me on LinkedIn</a>
 
 <h2 align="left">Languages and Tools</h2>
 
