@@ -2,10 +2,6 @@
 Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Karl
 ============================================================================================================================
 
-<br>
-<h3 align="center"> An aspiring frontend developer from Norway  </h3>
-<br>
-
 - 🔧 I am currently working on [Advanced Task Planner](https://github.com/DevKarl/Advanced-Task-Planner) 
 
 - 🌱 I am currently learning ***Next.js, NodeJS, Typescript and SASS***
