@@ -4,7 +4,7 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 - 🔧 I am currently working on [Advanced Task Planner](https://github.com/DevKarl/Advanced-Task-Planner) 
 
-- 🌱 I am currently learning ***Next.js, NodeJS, Typescript and SASS***
+- 🌱 I am also exploring and learning more about *** Next.js, NodeJS, Typescript and SASS***
 
 - 👨‍💻 All of my work and projects are available at <a href="https://www.karl-dev.com" target="_blank">www.karl-dev.com</a>
 
