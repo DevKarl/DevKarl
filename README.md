@@ -23,7 +23,7 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-<h4> I am somewhat familiar with </h4>
+<h4> I am <i>somewhat</i> familiar with </h4>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
