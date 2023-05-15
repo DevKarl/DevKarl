@@ -4,7 +4,7 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 - 🔧 I am currently working on [Advanced Task Planner](https://github.com/DevKarl/Advanced-Task-Planner) 
 
-- 👨‍💻 All of my work and projects are available at <a href="https://www.karl-dev.com" target="_blank">www.karl-dev.com</a>
+- 👨‍💻 My work and personal projects are available at my portfolio: <a href="https://www.karl-dev.com" target="_blank">www.karl-dev.com</a>
 
 <h2 align="left">Languages and Tools</h2>
 
