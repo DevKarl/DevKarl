@@ -2,8 +2,6 @@
 Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Karl
 ============================================================================================================================
 
-- 🔧 I am currently working on [Advanced Task Planner](https://github.com/DevKarl/Advanced-Task-Planner) 
-
 - 👨‍💻 My work and personal projects are available at my portfolio: <a href="https://www.karl-dev.com" target="_blank">www.karl-dev.com</a>
 
 <h2 align="left">Languages and Tools</h2>
