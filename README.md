@@ -1,2 +1,1 @@
-
-Front-End Developer at Enivest
+Developer at Enivest
